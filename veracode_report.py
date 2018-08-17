@@ -4,8 +4,8 @@ import xlsxwriter
 import requests
 import xml.etree.ElementTree as ET
 
-username = "bermuda_api"
-password = "0mIz25Knfg7IDsft5p4K7sSTEfOTmj"
+username = "xyz"
+password = "xyz"
 
 def main():
 
